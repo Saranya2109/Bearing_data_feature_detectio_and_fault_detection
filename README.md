@@ -1,4 +1,3 @@
-# Bearing_data_feature_detectio_and_fault_detection
 # Bearing sensor data feature extraction and fault detection.
 Bearings are vital components of rotating machines that are prone to unexpected faults. The main objective is to detect the faults occuring in the IMS bearings that are installed on a shaft - a rotating machinery fault diagnosis to reduce the operational costs and downtime.
 ## About Dataset
